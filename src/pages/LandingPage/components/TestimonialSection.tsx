@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
-import BackgroundImage from "../../../../public/assets/images/testimonial-bg.svg"; // Replace with your image
+import BackgroundImage from "../../../../public/assets/images/hire-developer-bg.webp"; // Replace with your image
 import LeftArrow from "../../../../public/assets/images/arrow-circle-left.svg";
 import RightArrow from "../../../../public/assets/images/arrow-circle-right.svg";
 
