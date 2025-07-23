@@ -3,7 +3,7 @@
 import React from "react";
 import Footer from "../LandingPage/components/Footer";
 import TechnologyStack from "../LandingPage/components/TechnologyStack";
-import TestimonialSection from "../LandingPage/components/TestimonialSection";
+// import TestimonialSection from "../LandingPage/components/TestimonialSection";
 import Header from "../LandingPage/components/Layout";
 import ContactForm from "./form/contact-form";
 import HeroSection from "./components/hero-section";
@@ -18,12 +18,12 @@ const HirePage = () => {
     <>
       <Header />
       <HeroSection />
-      <PerformanceSection />
+      {/* <PerformanceSection /> */}
       <OurValueSection />
       <OutsourcingSection />
       <TalentResourcesSection />
 
-      <TechnologyStack />
+      {/* <TechnologyStack /> */}
       <DeveloperListSection />
 
       <Footer />

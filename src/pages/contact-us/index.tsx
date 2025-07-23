@@ -2,8 +2,8 @@
 
 import React from "react";
 import Footer from "../LandingPage/components/Footer";
-import TechnologyStack from "../LandingPage/components/TechnologyStack";
-import TestimonialSection from "../LandingPage/components/TestimonialSection";
+// import TechnologyStack from "../LandingPage/components/TechnologyStack";
+// import TestimonialSection from "../LandingPage/components/TestimonialSection";
 import Header from "../LandingPage/components/Layout";
 import ContactForm from "./form/contact-form";
 import ContactUs from "../LandingPage/components/ContactUs";
@@ -14,8 +14,8 @@ const ContactUsPage = () => {
 		   
       <Header />
 <ContactForm/>
-<TestimonialSection/>
-<TechnologyStack/>
+{/* <TestimonialSection/> */}
+{/* <TechnologyStack/> */}
 <ContactUs/>
 
 <Footer/>

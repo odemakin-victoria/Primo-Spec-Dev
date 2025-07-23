@@ -22,9 +22,9 @@ const LandingPage: React.FC = () => {
 <ServicesSection/>
 {/* <PerformanceSection/> */}
 {/* <AboutUs/> */}
-<TestimonialSection/>
+{/* <TestimonialSection/> */}
 <WhyChoosePrimoSpec/>
-<TechnologyStack/>
+{/* <TechnologyStack/> */}
 <ContactUs/>
 <Footer/>
 

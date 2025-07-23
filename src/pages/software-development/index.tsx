@@ -20,9 +20,9 @@ const SoftwareDevelopmentPage = () => {
       <OutsourcingSection />
       <TalentResourcesSection /> */}
 
-      <TechnologyStack />
+      {/* <TechnologyStack /> */}
       <DeveloperListSection />
-<TestimonialSection/>
+{/* <TestimonialSection/> */}
 <ContactUs/>
       <Footer />
     </>
