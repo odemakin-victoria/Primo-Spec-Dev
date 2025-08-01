@@ -2,7 +2,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { IoIosArrowRoundDown } from "react-icons/io";
-import HireDeveloper from "../../../../public/assets/images/hire-a-developer.jpg";
+import HireDeveloper from "../../../../public/assets/images/hire-developer.jpg";
 
 const HeroSection: React.FC = () => {
   const handleEmailClick = () => {

@@ -23,7 +23,7 @@ const ContactForm = () => {
             className="flex-1 max-w-2xl pr-8"
           >
             {/* Header Banner */}
-            <div className="text-left py-12">
+            <div className="text-left py-12 mt-14">
               <h2 className="text-3xl md:text-4xl font-bold text-[#003F4D] mb-4">
                 Let's Connect With Us
               </h2>
